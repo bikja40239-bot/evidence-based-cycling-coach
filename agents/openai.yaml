@@ -1,0 +1,4 @@
+interface:
+  display_name: "科学骑行训练教练"
+  short_description: "面向不同性别与水平的公路、山地骑手，制定循证训练、营养和恢复方案"
+  default_prompt: "请使用 $evidence-based-cycling-coach，针对我本次的问题给出可执行建议，只补问真正必要的关键信息。"
